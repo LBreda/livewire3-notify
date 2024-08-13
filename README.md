@@ -46,7 +46,7 @@ public function test(): void
 }
 ```
 
-or you can dispatch it via the DOM in a view:
+or you can use it in a view:
 
 ```html
 <div>
@@ -54,7 +54,7 @@ or you can dispatch it via the DOM in a view:
 </div>
 ```
 
-# Setting the default configuration
+# Setting up the default configuration
 
 You can export the default configuration via:
 
