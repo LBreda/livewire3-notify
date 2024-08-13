@@ -1,0 +1,30 @@
+{
+    "name": "lbreda/livewire3-notify",
+    "description": "Simple Notify binding for Livewire3",
+    "type": "library",
+    "license": "GPL-3",
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": ">10.0",
+        "livewire/livewire": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LBreda\\Livewire3Notify\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LBreda\\Livewire3Notify\\Providers\\SimpleNotifyServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Lorenzo Breda",
+            "email": "lorenzo@lbreda.com"
+        }
+    ]
+}
