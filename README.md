@@ -1,6 +1,6 @@
 # Livewire3 Notify
 
-**Livewire3 notify** is a [Livewire3](https://livewire.laravel.com) binding for [SimpleNotify](https://github.com/simple-notify/simple-notify). That's it.
+**Livewire3 Notify** is a [Livewire3](https://livewire.laravel.com) binding for [SimpleNotify](https://github.com/simple-notify/simple-notify). That's it.
 
 ## Installation
 
