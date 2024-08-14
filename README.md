@@ -42,7 +42,7 @@ For example, you can use it in a component method:
 #[On('test')]
 public function test(): void
 {
-    $this->dispatch('notify', ['status' => 'error', 'title' => 'Error', 'text' => 'Send halp']);
+    $this->dispatch('notify', status: 'error', title: 'Error', text: 'Send halp');
 }
 ```
 
